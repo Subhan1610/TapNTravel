@@ -19,7 +19,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 public class TravelStatusController {
 	@Autowired
 	private TravelStatusService travelStausService;
-
+// subhan
 //	public abstract TravelStatus checkInTravelStatus(int tabCardId,  String inStationName);
 //
 //	public abstract TravelStatus checkOutTravelStatus(int travelStatusId,
